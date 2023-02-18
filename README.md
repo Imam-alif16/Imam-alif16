@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, My name is Muhammad Imam Alif 👋
 
 <!--
 **Imam-alif16/Imam-alif16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning everything i can
+- 📫 How to reach me: imamalif1616@gmail.com
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Imam-alif16">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
